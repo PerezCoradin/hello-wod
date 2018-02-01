@@ -1,2 +1,2 @@
-# hello-wod
+# hello-world
 Mi primer repositorio
